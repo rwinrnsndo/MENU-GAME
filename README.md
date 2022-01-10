@@ -1,2 +1,3 @@
 # MENU-GAME
-MENU
+/mla
+/mlb
